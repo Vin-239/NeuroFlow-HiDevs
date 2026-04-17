@@ -5,8 +5,12 @@ __pycache__/
 # Node
 node_modules/
 
-# Environment
+# Environments
 .env
+.venv
+env/
+venv/
+ENV/
 
 # Databases & Vector Stores
 *.db
