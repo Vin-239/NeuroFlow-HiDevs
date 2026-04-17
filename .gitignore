@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+
+# Environment
+.env
+
+# Databases & Vector Stores
+*.db
+chroma/
+
+# ML/Tracking
+mlruns/
